@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Group?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.layout.StackPane?>
+
+<StackPane fx:id="root" prefHeight="2160.0" prefWidth="3840.0" style="-fx-background-color: #303030;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="client.scenes.HomeScreenCtrl">
+   <children>
+      <Group fx:id="group">
+         <children>
+            <Pane layoutX="439.0" layoutY="27.0" prefHeight="2106.0" prefWidth="3374.0" style="-fx-background-color: green;" />
+            <ImageView fitHeight="2160.0" fitWidth="3840.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../../../../../../Users/koenb/Downloads/RPG_Background.png" />
+               </image>
+            </ImageView>
+         </children>
+      </Group>
+   </children>
+</StackPane>

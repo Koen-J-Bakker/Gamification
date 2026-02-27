@@ -1,0 +1,11 @@
+client\scenes\AddQuoteCtrl.class
+client\scenes\QuoteOverviewCtrl.class
+client\utils\ServerUtils.class
+client\utils\ServerUtils$1.class
+client\MyModule.class
+client\MyFXML$MyFactory.class
+client\scenes\AddQuoteCtrl$1.class
+client\MyFXML$MyFactory$1.class
+client\MyFXML.class
+client\scenes\MainCtrl.class
+client\Main.class

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.3">
+<file name="C:\Users\koenb\Downloads\template-project-v2\template-project\client\pom.xml">
+</file>
+<file name="C:\Users\koenb\Downloads\template-project-v2\template-project\client\src\main\java\client\Main.java">
+</file>
+<file name="C:\Users\koenb\Downloads\template-project-v2\template-project\client\src\main\java\client\MyFXML.java">
+</file>
+<file name="C:\Users\koenb\Downloads\template-project-v2\template-project\client\src\main\java\client\MyModule.java">
+</file>
+<file name="C:\Users\koenb\Downloads\template-project-v2\template-project\client\src\main\java\client\scenes\AddQuoteCtrl.java">
+</file>
+<file name="C:\Users\koenb\Downloads\template-project-v2\template-project\client\src\main\java\client\scenes\MainCtrl.java">
+</file>
+<file name="C:\Users\koenb\Downloads\template-project-v2\template-project\client\src\main\java\client\scenes\QuoteOverviewCtrl.java">
+</file>
+<file name="C:\Users\koenb\Downloads\template-project-v2\template-project\client\src\main\java\client\utils\ServerUtils.java">
+</file>
+<file name="C:\Users\koenb\Downloads\template-project-v2\template-project\client\src\test\java\client\scenes\MainCtrlTest.java">
+</file>
+</checkstyle>
